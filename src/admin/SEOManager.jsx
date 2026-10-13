@@ -112,10 +112,10 @@ export default function SEOManager() {
         </div>
 
         <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
-          <a href="http://localhost:8000/api/sitemap/" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ fontSize: '0.85rem' }}>
+          <a href="https://api.jeevamatriculation.in/api/sitemap/" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ fontSize: '0.85rem' }}>
             <ExternalLink size={14} /> View Sitemap.xml
           </a>
-          <a href="http://localhost:8000/api/robots/" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ fontSize: '0.85rem' }}>
+          <a href="https://api.jeevamatriculation.in/api/robots/" target="_blank" rel="noreferrer" className="btn btn-secondary" style={{ fontSize: '0.85rem' }}>
             <ExternalLink size={14} /> View Robots.txt
           </a>
         </div>
